@@ -1,0 +1,7 @@
+C:\Users\david.silva\source\repos\Resumo\Resumo\bin\Debug\Resumo.exe.config
+C:\Users\david.silva\source\repos\Resumo\Resumo\bin\Debug\Resumo.exe
+C:\Users\david.silva\source\repos\Resumo\Resumo\bin\Debug\Resumo.pdb
+C:\Users\david.silva\source\repos\Resumo\Resumo\obj\Debug\Resumo.csprojAssemblyReference.cache
+C:\Users\david.silva\source\repos\Resumo\Resumo\obj\Debug\Resumo.csproj.CoreCompileInputs.cache
+C:\Users\david.silva\source\repos\Resumo\Resumo\obj\Debug\Resumo.exe
+C:\Users\david.silva\source\repos\Resumo\Resumo\obj\Debug\Resumo.pdb
